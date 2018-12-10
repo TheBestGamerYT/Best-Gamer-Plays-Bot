@@ -1,5 +1,9 @@
 ![intro](http://r69.cooltext.com/rendered/cooltext308656082057234.png)
 
+[<img src="https://img.shields.io/badge/discord-py-blue.svg">](https://discord.js.org/) 
+[<img src="https://discordapp.com/api/guilds/133049272517001216/widget.png?style=shield">](https://discord.gg/67gbBKH)
+[<img src="https://discordapp.com/api/guilds/133049272517001216/widget.png?style=shield">](https://discordapp.com/oauth2/authorize/?permissions=66060296&scope=bot&client_id=363356945760911360)
+
 # Best Gamer Plays bot was created to support TheBestGamerYT.
 # As a youtube content  creator offcourse.
 
