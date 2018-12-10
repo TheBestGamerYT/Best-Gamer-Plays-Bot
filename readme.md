@@ -1,5 +1,10 @@
 ![intro](http://r69.cooltext.com/rendered/cooltext308656082057234.png)
 
+# Current Version: 1.0.0 Latest Changes: 10.12.2018 19:46(UTC +1)
+
+## Best Gamer Plays bot was created to support TheBestGamerYT.
+## As a youtube content  creator offcourse.
+
 **This bot has been created by TheBestGamerYT.
 TheBestGamerYT is part of TeamCo7 Developments team.
 In case you would wish to invite this bot into yours server use the following link:
