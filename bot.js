@@ -20,4 +20,4 @@ client.on('message', message => {
   		message.channel.send('Welcome to a help page ! \n b! ping - pong \n b! help - help page');
   	}
   });
-client.login(config.token);
+client.login(process.env.BOT_TOKEN);
