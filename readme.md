@@ -1,4 +1,4 @@
-![intro](http://r69.cooltext.com/rendered/cooltext308656082057234.png)
+
 
 [<img src="https://img.shields.io/badge/discord-js-blue.svg">](https://discord.js.org/) 
 
