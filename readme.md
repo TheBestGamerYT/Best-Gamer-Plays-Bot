@@ -4,7 +4,7 @@
 
 [<img src="https://discordapp.com/api/guilds/133049272517001216/widget.png?style=shield">](https://discord.gg/67gbBKH)
 
-[<img src="https://d1qb2nb5cznatu.cloudfront.net/startups/i/90183-bed46f22aafe8af7dc65cdd73fff2f76-medium_jpg.jpg?buster=1481325396">](https://discordapp.com/oauth2/authorize/?permissions=66060296&scope=bot&client_id=363356945760911360)
+[<img src="blob:https://mega.nz/98d94ea7-1e02-4413-8a44-89d4f3449191">](https://discordapp.com/oauth2/authorize/?permissions=66060296&scope=bot&client_id=363356945760911360)
 
 # Best Gamer Plays bot was created to support TheBestGamerYT
 # As a youtube content  creator offcourse.
