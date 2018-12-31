@@ -11,4 +11,4 @@
 ### Current Version: 1.0.0 Latest Changes: 10.12.2018 19:46(UTC +1)
 
 **This bot has been created by TheBestGamerYT.
-TheBestGamerYT is part of TeamCo7 Developments team.
+TheBestGamerYT is part of TeamCo7 Developments team.**
