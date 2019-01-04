@@ -11,8 +11,8 @@
 ### Current Version: 1.2.0 Latest Changes: 4.01.2019 20:45(UTC +1)
 
 #### Changelog:
-• Changed bots activity so it now looks more professional
-• Re-Coded help command - now its fully embed
+• Changed bots activity so it now looks more professional\n
+• Re-Coded help command - now its fully embed\n
 • Changed prefix to !g (g=gamer)
 
 **This bot has been created by TheBestGamerYT.
