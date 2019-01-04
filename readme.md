@@ -15,7 +15,7 @@
 
 • Re-Coded help command - now its fully embed
 
-• Changed prefix to !g (g=gamer)
+• Changed prefix to !tbg (tbg= TheBestGamer)
 
 **This bot has been created by TheBestGamerYT.
 TheBestGamerYT is part of TeamCo7 Developments team.**
