@@ -8,7 +8,12 @@
 
 # Best Gamer Plays bot was created to support TheBestGamerYT
 # As a youtube content  creator offcourse.
-### Current Version: 1.0.0 Latest Changes: 10.12.2018 19:46(UTC +1)
+### Current Version: 1.2.0 Latest Changes: 4.01.2019 20:45(UTC +1)
+
+#### Changelog:
+• Changed bots activity so it now looks more professional
+• Re-Coded help command - now its fully embed
+• Changed prefix to !g (g=gamer)
 
 **This bot has been created by TheBestGamerYT.
 TheBestGamerYT is part of TeamCo7 Developments team.**
