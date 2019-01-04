@@ -1,11 +1,11 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
 
-var prefix = "b! "
+var prefix = "!g "
 
 client.on('ready',() => {
   console.log("I\'m Online !");
-  client.user.setActivity('b! help | discord.gg/urSjkJx', { type: 'PLAYING' })
+  client.user.setActivity('!g help | discord.gg/urSjkJx', { type: 'PLAYING' })
     .then(presence => console.log(`Activity set to ${presence.game ? presence.game.name : 'b! is prefix'}`))
     .catch(console.error);
 })
