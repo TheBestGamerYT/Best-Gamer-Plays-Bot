@@ -17,5 +17,4 @@
 
 • Changed prefix to !tbg (tbg= TheBestGamer)
 
-**This bot has been created by TheBestGamerYT.
-TheBestGamerYT is part of TeamCo7 Developments team.**
+**This bot has been created by TheBestGamerYT.**
