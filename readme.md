@@ -8,13 +8,11 @@
 
 # Best Gamer Plays bot was created to support TheBestGamerYT
 # As a youtube content  creator offcourse.
-### Current Version: 1.2.0 Latest Changes: 4.01.2019 20:45(UTC +1)
+### Current Version: 2.0.0 Latest Changes: 12.04.2020 12:26(UTC +1)
 
 #### Changelog:
-• Changed bots activity so it now looks more professional
+• Changed the copyright year to 2020
 
-• Re-Coded help command - now its fully embed
-
-• Changed prefix to !tbg (tbg= TheBestGamer)
+• Fixed help command - now it shows the correct prefix
 
 **This bot has been created by TheBestGamerYT.**
