@@ -26,17 +26,17 @@ client.on('message', message => {
   },
   "color": 13632027,
   "footer": {
-    "text": "|Made by TheBestGamerYT|-|Powered by TeamCo7 Developments|-|© 2018-2019|"
+    "text": "|Made by TheBestGamerYT|-|Powered by Heroku|-|© 2020|"
   },
   "fields": [
     {
       "name": "Misc:",
-      "value": "• b! ping - Pong !",
+      "value": "• !tbg ping - Pong !",
       "inline": true
     },
     {
       "name": "Utility:",
-      "value": "• b! help - Full list of commands",
+      "value": "• !tbg help - Full list of commands",
       "inline": true
     }
   ]
